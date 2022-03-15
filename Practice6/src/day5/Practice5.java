@@ -136,8 +136,13 @@ public class Practice5 {
 			}
 			return sum;
 		}*/
-
-		System.out.println("DEMO7");
+		System.out.println("DEMO1");
+		System.out.println("DEMO2");
+		System.out.println("DEMO3");
+		System.out.println("DEMO4");
+		System.out.println("DEMO5");
+	}
+		
 		
 }
 
